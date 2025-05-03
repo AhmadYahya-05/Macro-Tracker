@@ -2,6 +2,10 @@
 
 A sleek, responsive web app for tracking daily meals and macronutrient intake in real-time.
 
+## Try it Out!
+
+https://ahmadyahya-05.github.io/Macro-Tracker/
+
 ## Features
 
 - 🎯 Set personalized daily goals for calories, protein, carbs, and fats.
